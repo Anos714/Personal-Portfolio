@@ -19,7 +19,7 @@ A sleek and responsive personal portfolio website built using **HTML**, **CSS**,
 
 ## 📸 Preview
 
-![Portfolio Screenshot](images\pp.png)  
+![Portfolio Screenshot](images/pp.png)  
 
 ## 🔗 Live Demo
 
