@@ -20,12 +20,10 @@ A sleek and responsive personal portfolio website built using **HTML**, **CSS**,
 ## 📸 Preview
 
 ![Portfolio Screenshot](pp.png)  
-*(Add a screenshot of your website here)*
 
 ## 🔗 Live Demo
 
 [Click here to view live](https://anos714.github.io/Personal-Portfolio/)  
-*(Replace with your actual GitHub Pages link)*
 
 ## 📁 Folder Structure
 /portfolio/
